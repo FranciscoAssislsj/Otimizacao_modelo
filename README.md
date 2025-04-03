@@ -1,16 +1,16 @@
 # Otimização de Modelos com GridSearchCV
 
-## Objetivo:
+## Objetivo
 Utilizar GridSearchCV para otimizar os hiperparâmetros do modelo GradientBoostingRegressor e avaliar seu impacto no desempenho.
 
 ## Tecnologias Utilizadas
 Python, Pandas, NumPy, Scikit-learn
 
-## Dados:
+## Dados
 Variáveis categóricas e numéricas que influenciam no preço.
 SalePrice: O preço final do imóvel (variável alvo).
 
-## Normalização e Tratamento de Dados:
+## Normalização e Tratamento de Dados
 Preenchimento de valores nulos com a média da coluna.
 Normalização dos dados numéricos antes do treinamento do modelo.
 
